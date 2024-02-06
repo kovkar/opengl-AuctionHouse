@@ -13,6 +13,6 @@ Required libraries: gl glu freeglut glew glfw glm
         libglew2.2 libglew-dev \
         libglfw3 libglfw3-dev \
         libglm-dev
-![](/screenshots/01.jpg?raw=true "")
-![](/screenshots/02.jpg?raw=true "")
-![](/screenshots/03.jpg?raw=true "")
+![01](/screenshots/01.jpg?raw=true "")
+![02](/screenshots/02.jpg?raw=true "")
+![03](/screenshots/03.jpg?raw=true "")
